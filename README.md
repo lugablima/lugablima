@@ -2,7 +2,7 @@
 
 I'm a *Full-Stack development* student at the *Driven bootcamp* and I'm also studying *Automation and Control Engineering* at *UNESP*.
 
-#### 💻 Languages and tools:
+### 💻 Languages and tools:
 
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30px" />
@@ -32,14 +32,15 @@ I'm a *Full-Stack development* student at the *Driven bootcamp* and I'm also stu
 ##
 <br/>
 
-#### 📈 My statistics:
+### 📈 My stats:
 
-<div align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lugablima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugablima&layout=compact&langs_count=7&theme=tokyonight" />
+<div>
+  <img align="left" height="150px" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lugablima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" height="150px" alt="Lucas GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugablima&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-#### ✉️ How to reach me:
+
+### ✉️ How to reach me:
 
 <div>
    <a href = "mailto:lugablima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
