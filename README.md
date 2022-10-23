@@ -30,6 +30,7 @@ I'm a *Full-Stack development* student at the *Driven bootcamp* and I'm also stu
  </div>
 
 ##
+<br/>
 
 #### 📈 My statistics:
 
