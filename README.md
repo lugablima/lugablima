@@ -2,7 +2,7 @@
 
 I'm a *Full-Stack development* student at the *Driven bootcamp* and I'm also studying *Automation and Control Engineering* at *UNESP*.
 
-### 💻 Languages and tools:
+<h3>💻 Languages and tools:</h3>
 
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30px" />
@@ -32,19 +32,20 @@ I'm a *Full-Stack development* student at the *Driven bootcamp* and I'm also stu
 ##
 <br/>
 
-### 📈 My stats:
+<h3>📈 My stats:</h3>
 
-<div>
-  <img align="left" height="150px" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lugablima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="150px" alt="Lucas GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugablima&layout=compact&langs_count=7&theme=tokyonight" />
+<div align="center">
+  <img width="380em" height="150px" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lugablima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="380em" height="150px" alt="Lucas GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugablima&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
+<br/>
 
-### ✉️ How to reach me:
+<h3>✉️ How to reach me:</h3>
 
 <div>
-   <a href = "mailto:lugablima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lucas-gabriel-lima-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:lugablima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+   <a href="https://www.linkedin.com/in/lucas-gabriel-lima-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
 
 <br/>
