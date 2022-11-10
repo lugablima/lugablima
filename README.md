@@ -65,18 +65,18 @@ Sou **Desenvolvedor Web Full Stack** prestes a me formar no bootcamp da *Driven 
  ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lugablima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugablima&layout=compact&langs_count=7&theme=tokyonight" height="195px" />
 
+## 🕒 Tempo total de código e número de visitas  
+
+[![WakaTime do Lucas Lima](https://wakatime.com/badge/user/ead11d92-f634-4f39-aecc-fb225e3f51a5.svg?style=for-the-badge)](https://wakatime.com/@ead11d92-f634-4f39-aecc-fb225e3f51a5)
+
+![Número de visitas](https://komarev.com/ghpvc/?username=lugablima&color=blue&style=for-the-badge&label=VISITAS)
+
 ## 📫 Contatos:
 
 <div>
    <a href="mailto:lugablima@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/lucas-gabriel-lima-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-## 🕒 Tempo total de código e número de visitas  
-
-[![WakaTime do Lucas Lima](https://wakatime.com/badge/user/ead11d92-f634-4f39-aecc-fb225e3f51a5.svg?style=for-the-badge)](https://wakatime.com/@ead11d92-f634-4f39-aecc-fb225e3f51a5)
-
-![Número de visitas](https://komarev.com/ghpvc/?username=lugablima&color=blue&style=for-the-badge&label=VISITAS)
 <!--
 **lugablima/lugablima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
