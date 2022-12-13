@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Lucas 👋</h1>
 
-Sou **Desenvolvedor Web Full Stack** prestes a me formar no bootcamp da *Driven Education*. Também estudo Engenharia de Controle e Automação na *UNESP Sorocaba*.
+Sou **Desenvolvedor Web Full Stack** formado no bootcamp da *Driven Education*. Também estudo Engenharia de Controle e Automação na *UNESP Sorocaba*.
 
 ## ⚡ Curiosidades sobre mim:
 
